@@ -18,3 +18,7 @@ https://youtu.be/dJKPXQN0NB4?si=hJW97JOaovc1lf3X
 ```bash
 $ npm install
 ```
+
+### Notas de aprendizaje
+- pug simplifica màs el trabajo en html
+- pug jade snnipets extension recomendada

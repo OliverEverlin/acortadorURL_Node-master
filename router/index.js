@@ -1,6 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const urlController = require('../controllers/urlController');
+//recordar que ../ es para retroceder una carpeta
 
 module.exports =()=>{
     // router.get('/',(req,res) => {
@@ -12,7 +13,8 @@ module.exports =()=>{
     // });
 
     router.get('/', urlController.home);
-    router.get('/nosotros', urlController.nosotros);
+    router.post('/',urlController.agregarUrl);
+    //router.get('/nosotros', urlController.nosotros);
 
     return router;
 }
