@@ -1,5 +1,8 @@
 # Proyecto Acortador URL con Node.js y MongoDB
 Repositorio con el código inicial
+Proyecto basado en el siguiente canal de ytb:
+
+https://youtu.be/dJKPXQN0NB4?si=hJW97JOaovc1lf3X
 
 # Para otros cursos, entradas de blog y videos visita:
 <a href="https://codigoconjuan.com">
